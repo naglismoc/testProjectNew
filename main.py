@@ -30,17 +30,14 @@ import random
 # print("Vartotojui yra " + str(current_year - birth_year) + " metai." )
 # print(str(current_year - birth_year) + " metai yra vartotojo amžius" )
 
-
 # print(datetime.now())
 
 # ========================================================================
-
 # if 5 > 3:
 #     print("5 > 3")
 #     print(":)")
 # else:
 #     print("5 !> 3")
-
 
 # pazymys = 8
 #
@@ -48,7 +45,6 @@ import random
 #     print("auksciausias ivertinimas")
 # else:
 #     print("yra kur tobuleti")
-
 
 # pazymys = 3
 #
@@ -65,10 +61,7 @@ import random
 # elif pazymys <= 3:
 #     print("reikes perlaikyti egzamina")
 #
-#
-#
 # print("zemiau salyginio sakinio")
-#
 #
 # pazymys = 8
 #
@@ -78,9 +71,6 @@ import random
 #     print("greiciausiai yra 8")
 
 print("hi")
-
-
-
 
 pazymys = 10
 
@@ -98,7 +88,6 @@ if 7 > pazymys >= 4:
 
 if pazymys <= 3:
     print("reikes perlaikyti egzamina")
-
 
 temperatura = -5
 krituliai = "nera"
@@ -122,7 +111,6 @@ atsitiktinis_sk2 = random.randint(0,4)
 
 print("atsitiktines reiksmes yra " + str(atsitiktinis_sk1) + " , " + str(atsitiktinis_sk2))
 
-
 starWars = "Star Wars: Episode " + (" " * random.randint(1, 9)) + str(random.randint(1, 7)) + " - A New Hope"
 print(starWars)
 
@@ -134,3 +122,6 @@ var = "labas vakaras :)"
 
 var = "labas vakaras :)"
 print("hihihi")
+
+if 5 < 3:
+    print("wow")
