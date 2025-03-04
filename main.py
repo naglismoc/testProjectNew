@@ -131,4 +131,6 @@ var = "labas vakaras :)"
 var = "labas vakaras :)"
 
 var = "labas vakaras :)"
+
+var = "labas vakaras :)"
 print("hihihi")
